@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LitleProgrammer
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...Java for Spigot MC
+- 👀 I’m interested in ... Coding and Making
+- 🌱 I’m currently learning ...Java for Spigot MC, JavaScript for Webapplications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...No way D:
 
